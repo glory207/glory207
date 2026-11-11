@@ -14,43 +14,56 @@ I particularly enjoy computer graphics, low-level programming, and exploring the
 - **Open Source:** Contributing to projects and collaborating with other developers.
 
 ## Featured Projects
+<table align="center">
 
-<table>
 <tr>
-<td colspan="2" width="100%">
-<a href="YOUR_OPENGL_REPO">
-  <div >
-    
-<img src="https://placehold.co/600x340/111827/60a5fa?text=OpenGL+Renderer" width="33%" alt="OpenGL Renderer"/>
-<img src="https://placehold.co/600x340/111827/60a5fa?text=OpenGL+Renderer" width="33%" alt="OpenGL Renderer"/>
-<img src="https://placehold.co/600x340/111827/60a5fa?text=OpenGL+Renderer" width="33%" alt="OpenGL Renderer"/>
-  </div>
-</a>
-<h3>OpenGL Renderer</h3>
-<p>C++ · OpenGL · GLSL</p>
-<p>Real-time rendering and graphics programming experiment.</p>
+<td width="30%">
+<div>
+
+### Maze of lost souls
+
+</div>
+</td>
+
+<td width="70%">
+<div style="white-space: nowrap; overflow-x: auto; padding-bottom: 10px;">
+  <img src="src\mazeOfLostSouls\gif\maze1.gif" width="500" alt="GIF 1" style="margin-right: 10px; border-radius: 8px;" />
+  <img src="src\mazeOfLostSouls\img\idle0001-Sheet.png" width="250" alt="GIF 1" style="margin-right: 10px; border-radius: 8px;" />
+  <img src="src\mazeOfLostSouls\img\idleNormal0001-Sheet.png" width="250" alt="GIF 1" style="margin-right: 10px; border-radius: 8px;" />
+  <img src="src\mazeOfLostSouls\gif\maze2.gif" width="500" alt="GIF 1" style="margin-right: 10px; border-radius: 8px;" />
+  <img src="src\mazeOfLostSouls\gif\maze3.gif" width="500" alt="GIF 1" style="margin-right: 10px; border-radius: 8px;" />
+  <img src="src\mazeOfLostSouls\gif\maze4.gif" width="500" alt="GIF 1" style="margin-right: 10px; border-radius: 8px;" />
+</div>
 </td>
 
 </tr>
+
 <tr>
-<td width="50%">
-<a href="YOUR_VR_REPO">
-<img src="https://placehold.co/600x340/111827/a78bfa?text=VR+Experiments" width="100%" alt="VR Experiments"/>
-</a>
-<h3>VR Experiments</h3>
-<p>C# · VR · 3D</p>
-<p>Game Engine</p>
+
+<td width="30%">
+<div>
+
+### Not blender
+
+</div>
 </td>
-<td width="50%">
-<a href="YOUR_OTHER_REPO">
-<img src="https://placehold.co/600x340/111827/fbbf24?text=Graphics+Experiments" width="100%" alt="Graphics Experiments"/>
-</a>
-<h3>Graphics Experiments</h3>
-<p>C# · GLSL · OpenTK · Mathematics · Rendering</p>
-<p>Rendering techniques, algorithms and visual experiments.</p>
+
+<td width="70%">
+<div style="white-space: nowrap; overflow-x: auto; padding-bottom: 10px;">
+  <img src="src\notBlender\gif\blend1.gif" width="500" alt="GIF 1" style="margin-right: 10px; border-radius: 8px;" />
+  <img src="src\notBlender\img\blendImg1.png" width="500" alt="GIF 1" style="margin-right: 10px; border-radius: 8px;" />
+  <img src="src\notBlender\gif\blend2.gif" width="500" alt="GIF 1" style="margin-right: 10px; border-radius: 8px;" />
+  <img src="src\notBlender\img\blendImg2.png" width="500" alt="GIF 1" style="margin-right: 10px; border-radius: 8px;" />
+  <img src="src\notBlender\gif\blend3.gif" width="500" alt="GIF 1" style="margin-right: 10px; border-radius: 8px;" />
+  <img src="src\notBlender\img\blendImg3.png" width="500" alt="GIF 1" style="margin-right: 10px; border-radius: 8px;" />
+</div>
 </td>
+
 </tr>
+
 </table>
+
+
 
 ### Tech Stack
 
